@@ -61,5 +61,7 @@ Class Distribution: Database: Dermatology Class code: Class: Number of instances
 6 pityriasis rubra pilaris 20 
  
 Task:1 Determine which features is impacting for a particular skin disorder (for all classes)
+
 Task2:-Create a machine learning model which will predict the disorder available.
+
 Task:3:-Perform the EDA and show the trend of the disease.
